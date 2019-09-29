@@ -1,0 +1,31 @@
+{
+	"home" :
+	{
+		"nama" : "Siti Nurjanah Jainul Waridha",
+		"nim" : "1303174039",
+		"kelas" : "IT-41-02"
+	},
+	"about" : "ashiap gengs",
+	"hobbies" : [
+		"bermain tic tac toe",
+		"minum coklat panas",
+		"bermain puzzle"
+	],
+	"skills" : [
+		"bisa napas",
+		"bisa bertahan di jurusan IT",
+		"bisa tidak menangis ketika mengerjakan tugas RPL"
+	],
+	"education" : [
+		"TKIT RAMADHANTY",
+		"SDIT DAAR EL-SALAM",
+		"SMPN 1 LEMBANG",
+		"SMAN 1 LEMBANG",
+		"TELKOM UNIVERSITY"
+	],
+	"experience" : [
+		"jalanin microsoft",
+		"jalanin browser",
+		"jalanin aja dulu hehe"
+	]
+}
